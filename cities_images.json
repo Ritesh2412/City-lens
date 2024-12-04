@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Saharsa",
+      "country": "IN",
+      "image": "images/saharsa.jpg"
+    },
+    {
+      "name": "Agra",
+      "country": "IN",
+      "image": "images/agra.jpg"
+    },
+    {
+      "name": "Bengaluru",
+      "country": "IN",
+      "image": "images/bangalore.jpg"
+    },
+    {
+      "name": "Kolkata",
+      "country": "IN",
+      "image": "images/calcutta.jpg"
+    },
+    {
+      "name": "Chennai",
+      "country": "IN",
+      "image": "images/chennai.jpg"
+    },
+    {
+      "name": "Delhi",
+      "country": "IN",
+      "image": "images/delhi.webp"
+    },
+    {
+      "name": "Gaya",
+      "country": "IN",
+      "image": "images/gaya.jpg"
+    },
+    {
+      "name": "Mumbai",
+      "country": "IN",
+      "image": "images/mumbai.jpg"
+    },
+    {
+      "name": "Udaipur",
+      "country": "IN",
+      "image": "images/udaipur.jpg"
+    },
+    {
+      "name": "Varanasi",
+      "country": "IN",
+      "image": "images/Varanashi.jpg"
+    },
+    {
+      "name": "Patna",
+      "country": "IN",
+      "image": "images/patna.jpg"
+    }
+  ]
+  
